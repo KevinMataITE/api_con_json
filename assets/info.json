@@ -1,0 +1,44 @@
+{
+    "info": [
+        {
+            "matricula": "18760440",
+            "nombre": "Kevin Mata Araujo",
+            "carrera": "Ingenieria en Sistemas Computacionales",
+            "semestre": "Octavo",
+            "telefonos": "6461970554",
+            "correo": "al18760440@ite.edu.mx"
+        },
+        {
+            "matricula": "18663695",
+            "nombre": "Jorge Garcia Serrano",
+            "carrera": "Ingenieria en Sistemas Computacionales",
+            "semestre": "Segundo",
+            "telefonos": "6461235898",
+            "correo": "al18663695@ite.edu.mx"
+        },
+        {
+            "matricula": "18663568",
+            "nombre": "Rogelio Estrada Romero",
+            "carrera": "Ingenieria en Mecatronica",
+            "semestre": "Tercero",
+            "telefonos": "6465647898",
+            "correo": "al18663568@ite.edu.mx"
+        },
+        {
+            "matricula": "18766505",
+            "nombre": "Benito Juarez Lopez",
+            "carrera": "Administracion de empresas",
+            "semestre": "Cuarto",
+            "telefonos": "646215678",
+            "correo": "al18766505@ite.edu.mx"
+        },
+        {
+            "matricula": "18767898",
+            "nombre": "Martin Javier Urquidy",
+            "carrera": "Ingenieria en Electronica",
+            "semestre": "Segundo",
+            "telefonos": "6464563212",
+            "correo": "al18767898@ite.edu.mx"
+        }
+    ]
+}
